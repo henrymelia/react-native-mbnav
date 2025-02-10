@@ -39,4 +39,7 @@ target 'MbnavExample' do
       # :ccache_enabled => true
     )
   end
+
+  # Mapbox Navigation
+  pod 'MapboxNavigation', '~> 2.14.0'
 end
